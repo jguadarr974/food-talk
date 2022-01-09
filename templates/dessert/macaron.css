@@ -116,3 +116,12 @@ body{
 .headerMenuBtn:hover > div{
     background-color: black;
 }
+
+.title{
+    font-size: 55px;
+    color: mintcream;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1.5px;
+    text-decoration-style:double;
+}
