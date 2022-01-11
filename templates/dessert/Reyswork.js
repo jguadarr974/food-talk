@@ -32,3 +32,4 @@ function showSideMenu(){
     }
     displayBackDrop();
 }
+
